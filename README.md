@@ -1,0 +1,1 @@
+This a simple mini-project using HTML, CSS, JS inspired from youtube tutorial video. In this project there are three buttons which on being clicked, display windows with some information which were previously hidden.
